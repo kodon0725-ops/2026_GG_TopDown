@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using UnityEngine.UI;
 public class DialogueBox : MonoBehaviour
 {
     public GameObject panel;
@@ -12,6 +13,7 @@ public class DialogueBox : MonoBehaviour
     public bool isOpen = false;
     public Talk nearTalk;
     public Door nearDoor;
+    public Image portraitImage;
     private Talk current;
     private int index = 0;
     private bool choosing = false;
@@ -71,5 +73,9 @@ public class DialogueBox : MonoBehaviour
         isOpen = false;
         panel.SetActive(false);
         choicePanel.SetActive(false);
+        Sprite face = current.lines[index].portrait;   // 추가
+        portraitImage.sprite = face;   // 추가
+        portraitImage.gameObject.SetActive(face != null);
+
     }
 }
