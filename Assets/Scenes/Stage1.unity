@@ -15369,25 +15369,25 @@ MonoBehaviour:
   player: {fileID: 1687150028}
   dialogueBox: {fileID: 399139269}
   downSprites:
-  - {fileID: -8502171906946096634, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 5959916776397878467, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: -6274759232889133004, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: -6911585628143698981, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
+  - {fileID: -8551926048802522344, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -1917216705143617085, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -1224306998314790025, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -5202686588022318795, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
   upSprites:
-  - {fileID: 2236024471453603562, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 8878056315252239073, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 8604429465100745120, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: -5273936394650443177, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
+  - {fileID: -718958999738548756, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -2709752227149170631, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -718958999738548756, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -6532675894275790648, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
   leftSprites:
-  - {fileID: -8981262932724058907, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: -5146936726639624249, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 2337512631832431647, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: -8132056391230671611, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
+  - {fileID: 5420507502013892583, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -4348433971234671891, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -3848673917185439007, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -3848673917185439007, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
   rightSprites:
-  - {fileID: 3674582020809541003, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 1924027821241625738, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 6130187409680790984, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
-  - {fileID: 6126807374376421584, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
+  - {fileID: 3226608011592555148, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: 1823720805633433256, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: -5068429678554846907, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
+  - {fileID: 1823720805633433256, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
   frameTime: 0.15
 --- !u!58 &681083893
 CircleCollider2D:
@@ -15501,7 +15501,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -8502171906946096634, guid: d1a448a283826ab4b8e90c60a7a576ce, type: 3}
+  m_Sprite: {fileID: -8551926048802522344, guid: 55a945547a651ed4b9c930c01e6e5841, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
